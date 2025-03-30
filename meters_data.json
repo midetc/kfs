@@ -1,0 +1,56 @@
+{
+    "meters": {
+        "123456": {
+            "day_reading": 1100.0,
+            "night_reading": 550.0,
+            "last_update": "2025-03-30 00:40:34"
+        },
+        "111111": {
+            "day_reading": 1100.0,
+            "night_reading": 550.0,
+            "last_update": "2025-03-30 01:12:27"
+        }
+    },
+    "history": [
+        {
+            "meter_id": "123456",
+            "date": "2025-03-30 00:40:02",
+            "day_consumption": 0,
+            "night_consumption": 0,
+            "day_cost": 0,
+            "night_cost": 0,
+            "total_cost": 0,
+            "is_new": true
+        },
+        {
+            "meter_id": "123456",
+            "date": "2025-03-30 00:40:34",
+            "day_consumption": 100.0,
+            "night_consumption": 50.0,
+            "day_cost": 168.0,
+            "night_cost": 42.0,
+            "total_cost": 210.0,
+            "is_new": false
+        },
+        {
+            "meter_id": "111111",
+            "date": "2025-03-30 01:12:13",
+            "day_consumption": 0,
+            "night_consumption": 0,
+            "day_cost": 0,
+            "night_cost": 0,
+            "total_cost": 0,
+            "is_new": true
+        },
+        {
+            "meter_id": "111111",
+            "date": "2025-03-30 01:12:27",
+            "day_consumption": 100.0,
+            "night_consumption": 50.0,
+            "day_cost": 168.0,
+            "night_cost": 42.0,
+            "total_cost": 210.0,
+            "is_new": false
+        }
+    ]
+}
